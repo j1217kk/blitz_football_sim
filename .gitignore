@@ -1,0 +1,5 @@
+fbsim_env
+migrations
+.env 
+__pycache__
+app.db
